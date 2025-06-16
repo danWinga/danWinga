@@ -34,7 +34,7 @@ Multi-zone API gateway for internal + external APIs (OAuth2, TLS, ELK, Helm)
 WSO2 Identity Server with Docker Swarm, MFA, SSO, LDAP + SIEM integration
 
 ### 💳 Family Bank API Gateway
-Full-stack WSO2 stack with OpenShift, CI/CD, FCUBS + MPESA integrations
+Full-stack WSO2 stack with Docker Containerization, CI/CD, FCUBS + MPESA integrations
 
 ### 🦷 Dental Virtual Assistant
 FastAPI backend, chatbot, MPESA payments, SMS/voice reminders, Vue frontend
@@ -63,7 +63,7 @@ C#-based desktop app for SACCO operations, loan tracking, and member analytics
 ## 📫 How to Reach Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-winga-8b910032/)
 - 🌍 [GitHub](https://github.com/danWinga)
-- 📧 Email: **danielowinga@gmail.com**
+- 📧 Email: **danwinga@gmail.com**
 
 ---
 
