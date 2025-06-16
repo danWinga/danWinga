@@ -37,7 +37,7 @@ WSO2 Identity Server with Docker Swarm, MFA, SSO, LDAP + SIEM integration
 Full-stack WSO2 stack with Docker Containerization, CI/CD, FCUBS + MPESA integrations
 
 ### 🦷 Dental Virtual Assistant
-FastAPI backend, chatbot, MPESA payments, SMS/voice reminders, Vue frontend
+FastAPI backend, chatbot, OpenAI API, Facebook Meta Whatsapp and Instagram API , MPESA payments, SMS/voice reminders, Vue frontend
 
 ### 🛒 Supermarket Backend
 Django + Keycloak + Africastalking, deployed with GitHub Actions → OpenShift
